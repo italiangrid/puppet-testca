@@ -1,6 +1,6 @@
 {
   "name": "cnafsd-testca",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "cnafsd",
   "summary": "Install IGI test CA",
   "license": "Apache-2.0",
