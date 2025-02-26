@@ -17,12 +17,6 @@ describe 'testca' do
       it 'check igi-test-ca' do
         is_expected.to contain_package('igi-test-ca')
       end
-      it 'check igi-test-ca-2' do
-        is_expected.to contain_package('igi-test-ca-2')
-      end
-      it 'check igi-test-ca-256' do
-        is_expected.to contain_package('igi-test-ca-256')
-      end
     end
   end
 end

@@ -1,6 +1,6 @@
 {
   "name": "cnafsd-testca",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": "cnafsd",
   "summary": "Install IGI test CA",
   "license": "Apache-2.0",
@@ -13,25 +13,29 @@
     {
       "operatingsystem": "CentOS",
       "operatingsystemrelease": [
-        "7"
+        "7",
+        "9"
       ]
     },
     {
       "operatingsystem": "OracleLinux",
       "operatingsystemrelease": [
-        "7"
+        "7",
+        "9"
       ]
     },
     {
       "operatingsystem": "RedHat",
       "operatingsystemrelease": [
-        "7"
+        "7",
+        "9"
       ]
     },
     {
       "operatingsystem": "Scientific",
       "operatingsystemrelease": [
-        "7"
+        "7",
+        "9"
       ]
     }
   ],
